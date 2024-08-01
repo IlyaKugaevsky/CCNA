@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7493c85e0c832d19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Настройка коммутатора.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3be0ba744819c4bb",
             "type": "leaf",
             "pinned": true,
@@ -34,46 +22,85 @@
             }
           },
           {
-            "id": "93d0b08eb7a1ec23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Настройка коммутатора.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3106c312711323fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Функции сетевых технологий.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2741e5cf02df2f13",
+            "id": "662af5ba8ded6175",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Функции сетевых технологий - конспект.canvas",
+                "file": "IOS - конспект.canvas",
                 "viewState": {
-                  "x": -45.447303584774374,
-                  "y": 3503.796712882703,
-                  "zoom": 0.16666666666666663
+                  "x": -364.3823735465,
+                  "y": 257.3086374719127,
+                  "zoom": -1.323964901071808
                 }
+              }
+            }
+          },
+          {
+            "id": "3fc98fc5bab78b73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c3e72ce54b24c21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d7d6bc2e6e06a38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84081cbc8c75d18a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Host-To-Host взаимодействие - конспект.canvas",
+                "viewState": {
+                  "x": 268.4830368424987,
+                  "y": 1856.003641697349,
+                  "zoom": -0.04149888205792063
+                }
+              }
+            }
+          },
+          {
+            "id": "ee976f16e0cf6be6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -131,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "997e3dc74bba6a43",
@@ -164,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Функции сетевых технологий - конспект.canvas",
+                "file": "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,30 +221,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2741e5cf02df2f13",
+  "active": "ee976f16e0cf6be6",
   "lastOpenFiles": [
-    "Pasted image 20240801172021.png",
-    "Pasted image 20240801170730.png",
-    "Pasted image 20240801170704.png",
-    "Pasted image 20240801165725.png",
-    "Функции сетевых технологий.md",
-    "Функции сетевых технологий - конспект.canvas",
-    "Pasted image 20240801162857.png",
-    "Pasted image 20240801162600.png",
-    "Pasted image 20240801161630.png",
     "Настройка коммутатора.md",
-    "Pasted image 20240801155952.png",
-    "Untitled.md",
     "CCNA оглавление.md",
-    "Контрольная 1. Начальная настройка коммутатора.md",
-    "IOS.md",
     "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md",
+    "Host-To-Host взаимодействие - конспект.canvas",
+    "Host-To-Host взаимодействие.md",
+    "Untitled.md",
+    "Функции сетевых технологий - конспект.canvas",
+    "Функции сетевых технологий.md",
+    "IOS - конспект.canvas",
+    "Pasted image 20240801224755.png",
+    "Pasted image 20240801224728.png",
+    "Pasted image 20240801224723.png",
+    "Pasted image 20240801223308.png",
+    "Pasted image 20240801223241.png",
+    "IOS.md",
+    "LAN.md",
+    "Pasted image 20240801205654.png",
+    "Pasted image 20240801193921.png",
+    "Pasted image 20240801191839.png",
+    "Pasted image 20240801191725.png",
+    "Pasted image 20240801191241.png",
+    "Контрольная 1. Начальная настройка коммутатора.md",
     "Практика 2. Таблицы MAC-адресов.md",
     "Практика 3. Настройка коммутатора - hostname, IP, интерфейсы.md",
     "TCP/IP канальный уровень.md",
-    "Host-To-Host взаимодействие.md",
     "TCP",
-    "LAN.md",
     "Notes/CCNA megabook.md",
     "Notes/Cisco.md",
     "Notes/Embedded.md",
@@ -233,10 +263,7 @@
     "Notes/Nine Chronicles.md",
     "Notes/Voice.md",
     "Homepage.canvas",
-    "Pasted image 20230827103617.png",
-    "Resources/Images/Typography proportionns.png",
     "Resources/Images/Typography proportionns.png.crdownload",
-    "Resources/Images/Kaufmann.jpg",
     "Resources/Images/Kaufmann.jpg.crdownload",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
