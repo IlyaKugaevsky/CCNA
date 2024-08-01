@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "0e479c5c80ed81a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fcaa2273ba901cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7493c85e0c832d19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Настройка коммутатора.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3be0ba744819c4bb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CCNA оглавление.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "93d0b08eb7a1ec23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Настройка коммутатора.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3106c312711323fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Функции сетевых технологий.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2741e5cf02df2f13",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Функции сетевых технологий - конспект.canvas",
+                "viewState": {
+                  "x": -45.447303584774374,
+                  "y": 3503.796712882703,
+                  "zoom": 0.16666666666666663
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da5944d3a3da3f02",
+    "type": "split",
+    "children": [
+      {
+        "id": "e00cfabc4ac1b71f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2cb8114b6f03af4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "024e2abf99b22df5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cisc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "093a1cd18cd55257",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc91ab80efef4398",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "997e3dc74bba6a43",
+    "type": "split",
+    "children": [
+      {
+        "id": "952aebb2de62178c",
+        "type": "tabs",
+        "dimension": 25.66063977746871,
+        "children": [
+          {
+            "id": "3f126c7976c7c009",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d1363abb6c175239",
+        "type": "tabs",
+        "dimension": 74.3393602225313,
+        "children": [
+          {
+            "id": "bbba6c90427e9efc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Функции сетевых технологий - конспект.canvas",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "2741e5cf02df2f13",
+  "lastOpenFiles": [
+    "Pasted image 20240801172021.png",
+    "Pasted image 20240801170730.png",
+    "Pasted image 20240801170704.png",
+    "Pasted image 20240801165725.png",
+    "Функции сетевых технологий.md",
+    "Функции сетевых технологий - конспект.canvas",
+    "Pasted image 20240801162857.png",
+    "Pasted image 20240801162600.png",
+    "Pasted image 20240801161630.png",
+    "Настройка коммутатора.md",
+    "Pasted image 20240801155952.png",
+    "Untitled.md",
+    "CCNA оглавление.md",
+    "Контрольная 1. Начальная настройка коммутатора.md",
+    "IOS.md",
+    "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md",
+    "Практика 2. Таблицы MAC-адресов.md",
+    "Практика 3. Настройка коммутатора - hostname, IP, интерфейсы.md",
+    "TCP/IP канальный уровень.md",
+    "Host-To-Host взаимодействие.md",
+    "TCP",
+    "LAN.md",
+    "Notes/CCNA megabook.md",
+    "Notes/Cisco.md",
+    "Notes/Embedded.md",
+    "Notes/To buy temp.md",
+    "Notes/Electricity.md",
+    "Notes/Mary.md",
+    "Notes/Analysis.md",
+    "Notes/Math.md",
+    "Notes/Science.md",
+    "Notes/Education.md",
+    "Notes/ROOT.md",
+    "Notes/Nine Chronicles.md",
+    "Notes/Voice.md",
+    "Homepage.canvas",
+    "Pasted image 20230827103617.png",
+    "Resources/Images/Typography proportionns.png",
+    "Resources/Images/Typography proportionns.png.crdownload",
+    "Resources/Images/Kaufmann.jpg",
+    "Resources/Images/Kaufmann.jpg.crdownload",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Notes/Daily",
+    "Resources/Images",
+    "Excalidraw/Физика.excalidraw",
+    "Excalidraw/История России.excalidraw"
+  ]
+}

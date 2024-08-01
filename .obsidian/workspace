@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "0e479c5c80ed81a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "663a225ee8298472",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/s3x.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da5944d3a3da3f02",
+    "type": "split",
+    "children": [
+      {
+        "id": "e00cfabc4ac1b71f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2cb8114b6f03af4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "024e2abf99b22df5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "997e3dc74bba6a43",
+    "type": "split",
+    "children": [
+      {
+        "id": "d17149ddb6701115",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9723266f7abcc460",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/s3x.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "663a225ee8298472",
+  "lastOpenFiles": [
+    "Base/DeFi.md",
+    "Base/s3x.md",
+    "Base/S43x.md",
+    "Base/War.md",
+    "Base/Trading.md",
+    "Base/Python.md",
+    "Base/Fermentation.md",
+    "Base/Voice.md",
+    "Base/Boxing.md",
+    "Base/Health.md"
+  ]
+}
