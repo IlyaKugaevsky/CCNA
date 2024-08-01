@@ -99,8 +99,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md",
+                "file": "CCNA оглавление.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,11 +220,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ee976f16e0cf6be6",
+  "active": "3be0ba744819c4bb",
   "lastOpenFiles": [
-    "Настройка коммутатора.md",
-    "CCNA оглавление.md",
     "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md",
+    "CCNA оглавление.md",
+    "TCP-IP функции маршрутизации.md",
+    "TCP-IP транспортный уровень, уровень приложений.md",
+    "TCP-IP канальный уровень.md",
+    "TCP/IP канальный уровень.md",
+    "TCP/IP транспортный уровень, уровень приложений.md",
+    "TCP/IP функции маршрутизации.md",
+    "Настройка коммутатора.md",
     "Host-To-Host взаимодействие - конспект.canvas",
     "Host-To-Host взаимодействие.md",
     "Untitled.md",
@@ -247,7 +252,6 @@
     "Контрольная 1. Начальная настройка коммутатора.md",
     "Практика 2. Таблицы MAC-адресов.md",
     "Практика 3. Настройка коммутатора - hostname, IP, интерфейсы.md",
-    "TCP/IP канальный уровень.md",
     "TCP",
     "Notes/CCNA megabook.md",
     "Notes/Cisco.md",
@@ -258,10 +262,6 @@
     "Notes/Analysis.md",
     "Notes/Math.md",
     "Notes/Science.md",
-    "Notes/Education.md",
-    "Notes/ROOT.md",
-    "Notes/Nine Chronicles.md",
-    "Notes/Voice.md",
     "Homepage.canvas",
     "Resources/Images/Typography proportionns.png.crdownload",
     "Resources/Images/Kaufmann.jpg.crdownload",

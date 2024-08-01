@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "CCNA оглавление",
+      "path": "CCNA оглавление.md"
+    },
+    {
       "basename": "Практика 1. CLI - режимы, горячие клавиши, упрощение работы",
       "path": "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md"
     },
     {
-      "basename": "Настройка коммутатора",
-      "path": "Настройка коммутатора.md"
+      "basename": "TCP-IP функции маршрутизации",
+      "path": "TCP-IP функции маршрутизации.md"
     },
     {
-      "basename": "CCNA оглавление",
-      "path": "CCNA оглавление.md"
+      "basename": "TCP-IP транспортный уровень, уровень приложений",
+      "path": "TCP-IP транспортный уровень, уровень приложений.md"
+    },
+    {
+      "basename": "TCP-IP канальный уровень",
+      "path": "TCP-IP канальный уровень.md"
+    },
+    {
+      "basename": "Настройка коммутатора",
+      "path": "Настройка коммутатора.md"
     },
     {
       "basename": "Host-To-Host взаимодействие - конспект",
@@ -145,10 +157,6 @@
       "path": "Практика 3. Настройка коммутатора - hostname, IP, интерфейсы.md"
     },
     {
-      "basename": "IP канальный уровень",
-      "path": "TCP/IP канальный уровень.md"
-    },
-    {
       "basename": "CCNA megabook",
       "path": "Notes/CCNA megabook.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "ROOT",
       "path": "Notes/ROOT.md"
-    },
-    {
-      "basename": "Nine Chronicles",
-      "path": "Notes/Nine Chronicles.md"
     }
   ],
   "omittedPaths": [
