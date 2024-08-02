@@ -22,84 +22,61 @@
             }
           },
           {
-            "id": "662af5ba8ded6175",
+            "id": "58a6f8feeb9943fd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Настройка коммутатора - конспект.canvas",
+                "viewState": {
+                  "x": -37.531581653302425,
+                  "y": 4355.216523139866,
+                  "zoom": 0.3333333333333332
+                }
+              }
+            }
+          },
+          {
+            "id": "88a0a021503f8fcc",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "IOS - конспект.canvas",
                 "viewState": {
-                  "x": -364.3823735465,
-                  "y": 257.3086374719127,
-                  "zoom": -1.323964901071808
+                  "x": 49.38846337892497,
+                  "y": 1531.1241730792194,
+                  "zoom": -0.4892580140371711
                 }
               }
             }
           },
           {
-            "id": "3fc98fc5bab78b73",
+            "id": "c4064d28d6f822e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IOS.md",
+                "file": "TCP-IP канальный уровень.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0c3e72ce54b24c21",
+            "id": "db1ac8a49207e7ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d7d6bc2e6e06a38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84081cbc8c75d18a",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Host-To-Host взаимодействие - конспект.canvas",
-                "viewState": {
-                  "x": 268.4830368424987,
-                  "y": 1856.003641697349,
-                  "zoom": -0.04149888205792063
-                }
-              }
-            }
-          },
-          {
-            "id": "ee976f16e0cf6be6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md",
+                "file": "IPv4 адресация, маски подсети.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "997e3dc74bba6a43",
@@ -189,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCNA оглавление.md",
+                "file": "IPv4 адресация, маски подсети.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,38 +198,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3be0ba744819c4bb",
+  "active": "db1ac8a49207e7ba",
   "lastOpenFiles": [
-    "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md",
+    "Настройка коммутатора.md",
     "CCNA оглавление.md",
+    "IPv4 адресация, маски подсети.md",
+    "TCP-IP канальный уровень.md",
+    "LAN.md",
+    "IOS.md",
+    "Функции сетевых технологий.md",
+    "IOS - конспект.canvas",
+    "Host-To-Host взаимодействие.md",
+    "Настройка коммутатора - конспект.canvas",
+    "Практика 3. Настройка коммутатора - hostname, IP, интерфейсы.md",
+    "Pasted image 20240802104614.png",
+    "Pasted image 20240802102750.png",
+    "Pasted image 20240802102531.png",
+    "Pasted image 20240802102433.png",
+    "Pasted image 20240802102139.png",
+    "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md",
+    "TCP-IP канальный уровень - конспект.canvas",
+    "Практика 2. Таблицы MAC-адресов.md",
+    "Untitled.md",
+    "Pasted image 20240802042839.png",
+    "Pasted image 20240802035209.png",
+    "Pasted image 20240802032543.png",
+    "Pasted image 20240802032313.png",
+    "Pasted image 20240802031703.png",
+    "LAN - конспект.canvas",
+    "Контрольная 1. Начальная настройка коммутатора.md",
+    "Host-To-Host взаимодействие - конспект.canvas",
+    "Функции сетевых технологий - конспект.canvas",
     "TCP-IP функции маршрутизации.md",
     "TCP-IP транспортный уровень, уровень приложений.md",
-    "TCP-IP канальный уровень.md",
     "TCP/IP канальный уровень.md",
     "TCP/IP транспортный уровень, уровень приложений.md",
     "TCP/IP функции маршрутизации.md",
-    "Настройка коммутатора.md",
-    "Host-To-Host взаимодействие - конспект.canvas",
-    "Host-To-Host взаимодействие.md",
-    "Untitled.md",
-    "Функции сетевых технологий - конспект.canvas",
-    "Функции сетевых технологий.md",
-    "IOS - конспект.canvas",
-    "Pasted image 20240801224755.png",
-    "Pasted image 20240801224728.png",
-    "Pasted image 20240801224723.png",
-    "Pasted image 20240801223308.png",
-    "Pasted image 20240801223241.png",
-    "IOS.md",
-    "LAN.md",
-    "Pasted image 20240801205654.png",
-    "Pasted image 20240801193921.png",
-    "Pasted image 20240801191839.png",
-    "Pasted image 20240801191725.png",
-    "Pasted image 20240801191241.png",
-    "Контрольная 1. Начальная настройка коммутатора.md",
-    "Практика 2. Таблицы MAC-адресов.md",
-    "Практика 3. Настройка коммутатора - hostname, IP, интерфейсы.md",
     "TCP",
     "Notes/CCNA megabook.md",
     "Notes/Cisco.md",
@@ -260,8 +242,6 @@
     "Notes/Electricity.md",
     "Notes/Mary.md",
     "Notes/Analysis.md",
-    "Notes/Math.md",
-    "Notes/Science.md",
     "Homepage.canvas",
     "Resources/Images/Typography proportionns.png.crdownload",
     "Resources/Images/Kaufmann.jpg.crdownload",

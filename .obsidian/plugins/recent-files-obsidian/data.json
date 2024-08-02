@@ -1,40 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "CCNA оглавление",
-      "path": "CCNA оглавление.md"
-    },
-    {
-      "basename": "Практика 1. CLI - режимы, горячие клавиши, упрощение работы",
-      "path": "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md"
-    },
-    {
-      "basename": "TCP-IP функции маршрутизации",
-      "path": "TCP-IP функции маршрутизации.md"
-    },
-    {
-      "basename": "TCP-IP транспортный уровень, уровень приложений",
-      "path": "TCP-IP транспортный уровень, уровень приложений.md"
-    },
-    {
-      "basename": "TCP-IP канальный уровень",
-      "path": "TCP-IP канальный уровень.md"
+      "basename": "IPv4 адресация, маски подсети",
+      "path": "IPv4 адресация, маски подсети.md"
     },
     {
       "basename": "Настройка коммутатора",
       "path": "Настройка коммутатора.md"
     },
     {
-      "basename": "Host-To-Host взаимодействие - конспект",
-      "path": "Host-To-Host взаимодействие - конспект.canvas"
+      "basename": "CCNA оглавление",
+      "path": "CCNA оглавление.md"
     },
     {
-      "basename": "Host-To-Host взаимодействие",
-      "path": "Host-To-Host взаимодействие.md"
+      "basename": "TCP-IP канальный уровень",
+      "path": "TCP-IP канальный уровень.md"
     },
     {
-      "basename": "Функции сетевых технологий - конспект",
-      "path": "Функции сетевых технологий - конспект.canvas"
+      "basename": "LAN",
+      "path": "LAN.md"
+    },
+    {
+      "basename": "IOS",
+      "path": "IOS.md"
     },
     {
       "basename": "Функции сетевых технологий",
@@ -43,6 +31,146 @@
     {
       "basename": "IOS - конспект",
       "path": "IOS - конспект.canvas"
+    },
+    {
+      "basename": "Host-To-Host взаимодействие",
+      "path": "Host-To-Host взаимодействие.md"
+    },
+    {
+      "basename": "Настройка коммутатора - конспект",
+      "path": "Настройка коммутатора - конспект.canvas"
+    },
+    {
+      "basename": "Pasted image 20240802102139",
+      "path": "Pasted image 20240802102139.png"
+    },
+    {
+      "basename": "Pasted image 20240802102531",
+      "path": "Pasted image 20240802102531.png"
+    },
+    {
+      "basename": "Практика 3. Настройка коммутатора - hostname, IP, интерфейсы",
+      "path": "Практика 3. Настройка коммутатора - hostname, IP, интерфейсы.md"
+    },
+    {
+      "basename": "Pasted image 20240802104614",
+      "path": "Pasted image 20240802104614.png"
+    },
+    {
+      "basename": "Pasted image 20240802102750",
+      "path": "Pasted image 20240802102750.png"
+    },
+    {
+      "basename": "Практика 1. CLI - режимы, горячие клавиши, упрощение работы",
+      "path": "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md"
+    },
+    {
+      "basename": "TCP-IP канальный уровень - конспект",
+      "path": "TCP-IP канальный уровень - конспект.canvas"
+    },
+    {
+      "basename": "Практика 2. Таблицы MAC-адресов",
+      "path": "Практика 2. Таблицы MAC-адресов.md"
+    },
+    {
+      "basename": "Pasted image 20240802042839",
+      "path": "Pasted image 20240802042839.png"
+    },
+    {
+      "basename": "Pasted image 20240802032543",
+      "path": "Pasted image 20240802032543.png"
+    },
+    {
+      "basename": "Pasted image 20240802035209",
+      "path": "Pasted image 20240802035209.png"
+    },
+    {
+      "basename": "Pasted image 20240802032313",
+      "path": "Pasted image 20240802032313.png"
+    },
+    {
+      "basename": "Pasted image 20240802031703",
+      "path": "Pasted image 20240802031703.png"
+    },
+    {
+      "basename": "Pasted image 20240802031413",
+      "path": "Pasted image 20240802031413.png"
+    },
+    {
+      "basename": "Pasted image 20240802030305",
+      "path": "Pasted image 20240802030305.png"
+    },
+    {
+      "basename": "Pasted image 20240802025750",
+      "path": "Pasted image 20240802025750.png"
+    },
+    {
+      "basename": "Pasted image 20240802025600",
+      "path": "Pasted image 20240802025600.png"
+    },
+    {
+      "basename": "Pasted image 20240802024920",
+      "path": "Pasted image 20240802024920.png"
+    },
+    {
+      "basename": "Pasted image 20240802023722",
+      "path": "Pasted image 20240802023722.png"
+    },
+    {
+      "basename": "Pasted image 20240802023439",
+      "path": "Pasted image 20240802023439.png"
+    },
+    {
+      "basename": "Pasted image 20240802023358",
+      "path": "Pasted image 20240802023358.png"
+    },
+    {
+      "basename": "Pasted image 20240802022954",
+      "path": "Pasted image 20240802022954.png"
+    },
+    {
+      "basename": "Pasted image 20240802022746",
+      "path": "Pasted image 20240802022746.png"
+    },
+    {
+      "basename": "Pasted image 20240802022714",
+      "path": "Pasted image 20240802022714.png"
+    },
+    {
+      "basename": "Pasted image 20240802021711",
+      "path": "Pasted image 20240802021711.png"
+    },
+    {
+      "basename": "LAN - конспект",
+      "path": "LAN - конспект.canvas"
+    },
+    {
+      "basename": "Контрольная 1. Начальная настройка коммутатора",
+      "path": "Контрольная 1. Начальная настройка коммутатора.md"
+    },
+    {
+      "basename": "Pasted image 20240802005814",
+      "path": "Pasted image 20240802005814.png"
+    },
+    {
+      "basename": "Pasted image 20240802003159",
+      "path": "Pasted image 20240802003159.png"
+    },
+    {
+      "basename": "Host-To-Host взаимодействие - конспект",
+      "path": "Host-To-Host взаимодействие - конспект.canvas"
+    },
+    {
+      "basename": "Функции сетевых технологий - конспект",
+      "path": "Функции сетевых технологий - конспект.canvas"
+    },
+    {
+      "basename": "TCP-IP функции маршрутизации",
+      "path": "TCP-IP функции маршрутизации.md"
+    },
+    {
+      "basename": "TCP-IP транспортный уровень, уровень приложений",
+      "path": "TCP-IP транспортный уровень, уровень приложений.md"
     },
     {
       "basename": "Pasted image 20240801224755",
@@ -61,14 +189,6 @@
       "path": "Pasted image 20240801223308.png"
     },
     {
-      "basename": "IOS",
-      "path": "IOS.md"
-    },
-    {
-      "basename": "LAN",
-      "path": "LAN.md"
-    },
-    {
       "basename": "Pasted image 20240801193921",
       "path": "Pasted image 20240801193921.png"
     },
@@ -79,126 +199,6 @@
     {
       "basename": "Pasted image 20240801191839",
       "path": "Pasted image 20240801191839.png"
-    },
-    {
-      "basename": "Pasted image 20240801191725",
-      "path": "Pasted image 20240801191725.png"
-    },
-    {
-      "basename": "Pasted image 20240801191241",
-      "path": "Pasted image 20240801191241.png"
-    },
-    {
-      "basename": "Pasted image 20240801190805",
-      "path": "Pasted image 20240801190805.png"
-    },
-    {
-      "basename": "Pasted image 20240801180211",
-      "path": "Pasted image 20240801180211.png"
-    },
-    {
-      "basename": "Pasted image 20240801182339",
-      "path": "Pasted image 20240801182339.png"
-    },
-    {
-      "basename": "Pasted image 20240801181425",
-      "path": "Pasted image 20240801181425.png"
-    },
-    {
-      "basename": "Pasted image 20240801181338",
-      "path": "Pasted image 20240801181338.png"
-    },
-    {
-      "basename": "Pasted image 20240801180952",
-      "path": "Pasted image 20240801180952.png"
-    },
-    {
-      "basename": "Pasted image 20240801172021",
-      "path": "Pasted image 20240801172021.png"
-    },
-    {
-      "basename": "Pasted image 20240801170730",
-      "path": "Pasted image 20240801170730.png"
-    },
-    {
-      "basename": "Pasted image 20240801170704",
-      "path": "Pasted image 20240801170704.png"
-    },
-    {
-      "basename": "Pasted image 20240801165725",
-      "path": "Pasted image 20240801165725.png"
-    },
-    {
-      "basename": "Pasted image 20240801155952",
-      "path": "Pasted image 20240801155952.png"
-    },
-    {
-      "basename": "Pasted image 20240801162857",
-      "path": "Pasted image 20240801162857.png"
-    },
-    {
-      "basename": "Pasted image 20240801162600",
-      "path": "Pasted image 20240801162600.png"
-    },
-    {
-      "basename": "Pasted image 20240801161630",
-      "path": "Pasted image 20240801161630.png"
-    },
-    {
-      "basename": "Контрольная 1. Начальная настройка коммутатора",
-      "path": "Контрольная 1. Начальная настройка коммутатора.md"
-    },
-    {
-      "basename": "Практика 2. Таблицы MAC-адресов",
-      "path": "Практика 2. Таблицы MAC-адресов.md"
-    },
-    {
-      "basename": "Практика 3. Настройка коммутатора - hostname, IP, интерфейсы",
-      "path": "Практика 3. Настройка коммутатора - hostname, IP, интерфейсы.md"
-    },
-    {
-      "basename": "CCNA megabook",
-      "path": "Notes/CCNA megabook.md"
-    },
-    {
-      "basename": "Cisco",
-      "path": "Notes/Cisco.md"
-    },
-    {
-      "basename": "Embedded",
-      "path": "Notes/Embedded.md"
-    },
-    {
-      "basename": "To buy temp",
-      "path": "Notes/To buy temp.md"
-    },
-    {
-      "basename": "Electricity",
-      "path": "Notes/Electricity.md"
-    },
-    {
-      "basename": "Mary",
-      "path": "Notes/Mary.md"
-    },
-    {
-      "basename": "Analysis",
-      "path": "Notes/Analysis.md"
-    },
-    {
-      "basename": "Math",
-      "path": "Notes/Math.md"
-    },
-    {
-      "basename": "Science",
-      "path": "Notes/Science.md"
-    },
-    {
-      "basename": "Education",
-      "path": "Notes/Education.md"
-    },
-    {
-      "basename": "ROOT",
-      "path": "Notes/ROOT.md"
     }
   ],
   "omittedPaths": [
