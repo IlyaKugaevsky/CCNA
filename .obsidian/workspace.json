@@ -22,21 +22,6 @@
             }
           },
           {
-            "id": "58a6f8feeb9943fd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Настройка коммутатора - конспект.canvas",
-                "viewState": {
-                  "x": -37.531581653302425,
-                  "y": 4355.216523139866,
-                  "zoom": 0.3333333333333332
-                }
-              }
-            }
-          },
-          {
             "id": "88a0a021503f8fcc",
             "type": "leaf",
             "state": {
@@ -74,9 +59,180 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89e60cdb703df8b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IOS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89bcf7229cb0bda2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "LAN - конспект.canvas",
+                "viewState": {
+                  "x": 90.38469354758934,
+                  "y": 1065.2360605501708,
+                  "zoom": -0.575749539664145
+                }
+              }
+            }
+          },
+          {
+            "id": "b19f2feed4da5509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCP-IP канальный уровень.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a79791aa3602faaf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Настройка коммутатора - конспект.canvas",
+                "viewState": {
+                  "x": 180.06704762645762,
+                  "y": -472.5203978463344,
+                  "zoom": -0.7498142714673817
+                }
+              }
+            }
+          },
+          {
+            "id": "cb1c46868e67337c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "LAN - конспект.canvas",
+                "viewState": {
+                  "x": -56,
+                  "y": 2469.280353200883,
+                  "zoom": -1.909082872997478
+                }
+              }
+            }
+          },
+          {
+            "id": "5a9010272a2a6ff6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "TCP-IP канальный уровень - конспект.canvas",
+                "viewState": {
+                  "x": -41,
+                  "y": 3561.333333333327,
+                  "zoom": -3.289506617194985
+                }
+              }
+            }
+          },
+          {
+            "id": "7c865a782de2ba33",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Host-To-Host взаимодействие - конспект.canvas",
+                "viewState": {
+                  "x": -79.16134278417387,
+                  "y": 146.53228511454,
+                  "zoom": -0.04149888205792063
+                }
+              }
+            }
+          },
+          {
+            "id": "a282fa1b3cdd284e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "TCP-IP канальный уровень - конспект.canvas",
+                "viewState": {
+                  "x": 279.3450174765844,
+                  "y": 5452.6271603004125,
+                  "zoom": -0.28950661719498555
+                }
+              }
+            }
+          },
+          {
+            "id": "c0d76b2cc43d761d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Настройка коммутатора - конспект.canvas",
+                "viewState": {
+                  "x": -82.5,
+                  "y": 1423.43046357616,
+                  "zoom": -2.0831476048007147
+                }
+              }
+            }
+          },
+          {
+            "id": "c881b1ea54bc6ce3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "TCP-IP канальный уровень - конспект.canvas",
+                "viewState": {
+                  "x": -62.90427745175557,
+                  "y": 1738.9629618576757,
+                  "zoom": -0.2895066171949853
+                }
+              }
+            }
+          },
+          {
+            "id": "62924281ba451254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d07b88fbd1f1322a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "LAN - конспект.canvas",
+                "viewState": {
+                  "x": 287.03565324280567,
+                  "y": 1997.645590417541,
+                  "zoom": -0.575749539664145
+                }
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -167,7 +323,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IPv4 адресация, маски подсети.md",
+                "file": "LAN - конспект.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,26 +354,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "db1ac8a49207e7ba",
+  "active": "d07b88fbd1f1322a",
   "lastOpenFiles": [
-    "Настройка коммутатора.md",
-    "CCNA оглавление.md",
-    "IPv4 адресация, маски подсети.md",
-    "TCP-IP канальный уровень.md",
     "LAN.md",
-    "IOS.md",
-    "Функции сетевых технологий.md",
-    "IOS - конспект.canvas",
-    "Host-To-Host взаимодействие.md",
+    "CCNA оглавление.md",
+    "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md",
+    "TCP-IP канальный уровень - конспект.canvas",
+    "TCP-IP канальный уровень.md",
+    "Host-To-Host взаимодействие - конспект.canvas",
     "Настройка коммутатора - конспект.canvas",
+    "LAN - конспект.canvas",
+    "IOS.md",
+    "IPv4 адресация, маски подсети.md",
+    "IOS - конспект.canvas",
+    "Настройка коммутатора.md",
+    "Host-To-Host взаимодействие.md",
+    "Контрольная 1. Начальная настройка коммутатора.md",
+    "Функции сетевых технологий.md",
     "Практика 3. Настройка коммутатора - hostname, IP, интерфейсы.md",
     "Pasted image 20240802104614.png",
     "Pasted image 20240802102750.png",
     "Pasted image 20240802102531.png",
     "Pasted image 20240802102433.png",
     "Pasted image 20240802102139.png",
-    "Практика 1. CLI - режимы, горячие клавиши, упрощение работы.md",
-    "TCP-IP канальный уровень - конспект.canvas",
     "Практика 2. Таблицы MAC-адресов.md",
     "Untitled.md",
     "Pasted image 20240802042839.png",
@@ -225,9 +384,6 @@
     "Pasted image 20240802032543.png",
     "Pasted image 20240802032313.png",
     "Pasted image 20240802031703.png",
-    "LAN - конспект.canvas",
-    "Контрольная 1. Начальная настройка коммутатора.md",
-    "Host-To-Host взаимодействие - конспект.canvas",
     "Функции сетевых технологий - конспект.canvas",
     "TCP-IP функции маршрутизации.md",
     "TCP-IP транспортный уровень, уровень приложений.md",
