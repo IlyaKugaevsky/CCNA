@@ -56,9 +56,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "286a307a5c552c5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Настройка статической маршрутизации.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8681be895640b5ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Практика 15. Настройка router on a stick.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Практика 13. Настройка статической маршрутизации IPv6.md",
+                "file": "Практика 15. Настройка router on a stick.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,24 +205,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e75ecaf8443b1081",
+  "active": "8681be895640b5ed",
   "lastOpenFiles": [
     "Практика 11. Настройка IPv6.md",
-    "Практика 13. Настройка статической маршрутизации IPv6.md",
+    "Практика 15. Настройка router on a stick.md",
+    "Маршрутизация между VLAN.md",
     "CCNA оглавление.md",
-    "Практика 12. Настройка статической маршрутизации IPv4.md",
     "Настройка статической маршрутизации.md",
-    "Практика 14. Настройка VLAN.md",
     "VLAN.md",
+    "Практика 12. Настройка статической маршрутизации IPv4.md",
+    "Практика 13. Настройка статической маршрутизации IPv6.md",
+    "Практика 14. Настройка VLAN.md",
     "Практика 10. Проблемы с Port Duplex.md",
     "Pasted image 20240815181612.png",
     "Pasted image 20240815181551.png",
-    "Маршрутизация между VLAN.md",
     "Основы IPv6.md",
     "Устранение неполадок для простой сети.md",
     "Практика 9. Устранение неполадок для коммутатора. Медиа, проблемы с портами.md",
     "Контрольная 6. Настроить несколько VLAN и маршрутизацию между ними.md",
-    "Практика 15. Настройка router on a stick.md",
     "Контрольная 5. Устранение неполадок с VLAN.md",
     "Практика 14. Настройка VLAN и транков.md",
     "Контрольная 4. Настроить статическую маршрутизацию IPv6.md",
